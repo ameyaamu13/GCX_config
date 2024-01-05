@@ -5,7 +5,7 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Username</column_label>
@@ -27,7 +27,7 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">glide_date</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>customer_account</name>
@@ -53,7 +53,7 @@
         <sys_scope display_value="GCX_GlobalApp">95c7e9e19727f11088a4f2a3f153afac</sys_scope>
         <sys_update_name>sys_dictionary_customer_account_x_956044_gcx_globa_username</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-05 09:57:36</sys_updated_on>
+        <sys_updated_on>2024-01-05 10:10:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

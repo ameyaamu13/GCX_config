@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="b62021409771311088a4f2a3f153af3e" extends="core_company" label="Account" max_length="40" name="customer_account" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Username" max_length="40" name="x_956044_gcx_globa_username" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Username" max_length="40" name="x_956044_gcx_globa_username" type="glide_date"/>
     </element>
 </database>
